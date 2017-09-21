@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13896" started-at="2017-06-07T13:03:55Z" finished-at="2017-06-07T13:04:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13896" started-at="2017-06-07T13:03:55Z" finished-at="2017-06-07T13:04:09Z">
+      <class name="com.com.test.AppiumTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.com.test.AppiumTest@1774679]" name="beforeMethod" is-config="true" duration-ms="5849" started-at="2017-06-07T18:33:55Z" finished-at="2017-06-07T18:34:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:com.com.test.AppiumTest@1774679]" name="f" duration-ms="8024" started-at="2017-06-07T18:34:01Z" finished-at="2017-06-07T18:34:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.com.test.AppiumTest@1774679]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-06-07T18:34:09Z" finished-at="2017-06-07T18:34:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.com.test.AppiumTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
